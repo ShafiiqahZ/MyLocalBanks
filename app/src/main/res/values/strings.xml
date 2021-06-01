@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyLocalBanks</string>
+    <string name="dbs">DBS</string>
+    <string name="ocbc">OCBC</string>
+    <string name="uob">UOB</string>
+    <string name="Eng">English</string>
+    <string name="Malay">Malay</string>
+</resources>
